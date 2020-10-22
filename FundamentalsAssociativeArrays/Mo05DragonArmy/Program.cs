@@ -53,7 +53,6 @@ namespace Mo05DragonArmy
             //output
             PrintDragons(dragonList);
 
-
         }
         static int CheckHealth(string inputData)
         {
