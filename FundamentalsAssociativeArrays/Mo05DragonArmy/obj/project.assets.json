@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\FundamentalsAssociativeArrays\\Mo05DragonArmy\\Mo05DragonArmy.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\CSharp-Fundamentals\\AssociativeArrays\\Mo05DragonArmy\\Mo05DragonArmy.csproj",
       "projectName": "Mo05DragonArmy",
-      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\FundamentalsAssociativeArrays\\Mo05DragonArmy\\Mo05DragonArmy.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\CSharp-Fundamentals\\AssociativeArrays\\Mo05DragonArmy\\Mo05DragonArmy.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\FundamentalsAssociativeArrays\\Mo05DragonArmy\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\CSharp-Fundamentals\\AssociativeArrays\\Mo05DragonArmy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",
