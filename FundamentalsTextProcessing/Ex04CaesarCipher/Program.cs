@@ -9,9 +9,7 @@ namespace Ex04CaesarCipher
         {
             string input = Console.ReadLine();
             StringBuilder sb = new StringBuilder();
-
             EncryptText(input, sb);
-
             Console.WriteLine(sb.ToString());
         }
 
