@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx04ArrayRotation\\MEx04ArrayRotation.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx04ArrayRotation\\MEx04ArrayRotation.csproj",
       "projectName": "MEx04ArrayRotation",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx04ArrayRotation\\MEx04ArrayRotation.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx04ArrayRotation\\MEx04ArrayRotation.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx04ArrayRotation\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx04ArrayRotation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

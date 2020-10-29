@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab05SumEvenNumbers\\Lab05SumEvenNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab05SumEvenNumbers\\Lab05SumEvenNumbers.csproj",
       "projectName": "Lab05SumEvenNumbers",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab05SumEvenNumbers\\Lab05SumEvenNumbers.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab05SumEvenNumbers\\Lab05SumEvenNumbers.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab05SumEvenNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab05SumEvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

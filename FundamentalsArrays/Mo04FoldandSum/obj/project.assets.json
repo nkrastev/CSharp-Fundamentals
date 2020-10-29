@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo04FoldandSum\\Mo04FoldandSum.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo04FoldandSum\\Mo04FoldandSum.csproj",
       "projectName": "Mo04FoldandSum",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo04FoldandSum\\Mo04FoldandSum.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo04FoldandSum\\Mo04FoldandSum.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo04FoldandSum\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo04FoldandSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

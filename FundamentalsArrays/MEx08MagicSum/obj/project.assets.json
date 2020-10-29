@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx08MagicSum\\MEx08MagicSum.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx08MagicSum\\MEx08MagicSum.csproj",
       "projectName": "MEx08MagicSum",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx08MagicSum\\MEx08MagicSum.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx08MagicSum\\MEx08MagicSum.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx08MagicSum\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx08MagicSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx10LadyBugs\\MEx10LadyBugs.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx10LadyBugs\\MEx10LadyBugs.csproj",
       "projectName": "MEx10LadyBugs",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx10LadyBugs\\MEx10LadyBugs.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx10LadyBugs\\MEx10LadyBugs.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx10LadyBugs\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx10LadyBugs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

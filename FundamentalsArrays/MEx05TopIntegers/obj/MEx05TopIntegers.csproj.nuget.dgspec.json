@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj": {}
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj": {
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj",
         "projectName": "MEx05TopIntegers",
-        "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx05TopIntegers\\MEx05TopIntegers.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx05TopIntegers\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx05TopIntegers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

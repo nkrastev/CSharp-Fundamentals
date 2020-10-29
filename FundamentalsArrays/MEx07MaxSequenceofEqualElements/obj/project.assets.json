@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\MEx07MaxSequenceofEqualElements.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\MEx07MaxSequenceofEqualElements.csproj",
       "projectName": "MEx07MaxSequenceofEqualElements",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\MEx07MaxSequenceofEqualElements.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\MEx07MaxSequenceofEqualElements.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx07MaxSequenceofEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

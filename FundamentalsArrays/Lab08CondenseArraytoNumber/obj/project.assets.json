@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\Lab08CondenseArraytoNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\Lab08CondenseArraytoNumber.csproj",
       "projectName": "Lab08CondenseArraytoNumber",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\Lab08CondenseArraytoNumber.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\Lab08CondenseArraytoNumber.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab08CondenseArraytoNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

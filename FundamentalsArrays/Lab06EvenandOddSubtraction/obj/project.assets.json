@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\Lab06EvenandOddSubtraction.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\Lab06EvenandOddSubtraction.csproj",
       "projectName": "Lab06EvenandOddSubtraction",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\Lab06EvenandOddSubtraction.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\Lab06EvenandOddSubtraction.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab06EvenandOddSubtraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj": {}
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj": {
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj",
         "projectName": "MEx06EqualSums",
-        "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx06EqualSums\\MEx06EqualSums.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx06EqualSums\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx06EqualSums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

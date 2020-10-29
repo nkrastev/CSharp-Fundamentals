@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj": {}
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj": {
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj",
         "projectName": "Lab04ReverseArrayofStrings",
-        "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\Lab04ReverseArrayofStrings.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab04ReverseArrayofStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

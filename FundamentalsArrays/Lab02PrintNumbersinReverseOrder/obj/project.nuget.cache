@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ys+7NU2T74YoYEazueTkpMv9dqqYoP4bI/kcoDujOJr4HJFCHWdn6D2lxRDhBmVlRSCiI0YTMr+QuHrNPXKCgw==",
+  "dgSpecHash": "2Ha+ohh1kBQIhhOTN/EzKggSJ+bIKIOt6UNAYub+X4RS+IMk2m64KCuBaT4ySHgbu4tZfUDeiM9GM0ZC65R/MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Lab02PrintNumbersinReverseOrder\\Lab02PrintNumbersinReverseOrder.csproj",
+  "projectFilePath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Lab02PrintNumbersinReverseOrder\\Lab02PrintNumbersinReverseOrder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

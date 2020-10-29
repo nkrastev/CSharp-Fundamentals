@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj": {}
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj": {
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj",
         "projectName": "Mo02PascalTriangle",
-        "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo02PascalTriangle\\Mo02PascalTriangle.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\Mo02PascalTriangle\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\Mo02PascalTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",

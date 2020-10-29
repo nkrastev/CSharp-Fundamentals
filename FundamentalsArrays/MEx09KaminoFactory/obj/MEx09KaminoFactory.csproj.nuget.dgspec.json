@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj": {}
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj": {
+    "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj",
         "projectName": "MEx09KaminoFactory",
-        "projectPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx09KaminoFactory\\MEx09KaminoFactory.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsArrays\\MEx09KaminoFactory\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\GITHUB\\CSharp-Fundamentals\\FundamentalsArrays\\MEx09KaminoFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",
