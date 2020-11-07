@@ -69,8 +69,7 @@ namespace The_Final_Quest
                     {
                         input[index2] = word1;
                     }
-                }
-                //Console.WriteLine(String.Join(" ", input));
+                }                
 
                 comm = Console.ReadLine();
             }
