@@ -31,7 +31,15 @@ namespace Pirates
             }
             else
             {
-                Console.WriteLine($"Collected only {totalPlunder/expectedPlunder*100:f2}% of the plunder.");
+                if (expectedPlunder==0)
+                {
+                    Console.WriteLine($"Collected only 0% of the plunder.");
+                }
+                else
+                {
+                    Console.WriteLine($"Collected only {totalPlunder / expectedPlunder * 100:f2}% of the plunder.");
+                }
+                
             }
         }
     }
