@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xL6dS2zm2qZMPISEFSYBYj8quBstZOF+aUX9zOtDJdCoaZZPupE3LHKy8C2sJcYGJklqFzY5BKa03ZX3VexP5w==",
+  "dgSpecHash": "hD+5JWWvnvsfi3lV7+L+hlwPPw4tdRdlcdqPzrXRbzJBskKqVYROtkD2ss09SAxwhyvn9I1dHEg5ZSukw5XlHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikolay\\source\\repos\\FundamentalsObjectClasses\\Мо04RawData\\Мо04RawData.csproj",
+  "projectFilePath": "C:\\Users\\Nikolay\\source\\repos\\CSharp-Fundamentals\\FundamentalsObjects\\Mo04RawData\\Mo04RawData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
